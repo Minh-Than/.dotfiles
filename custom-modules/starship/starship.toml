@@ -1,0 +1,14 @@
+format = """
+[╭╴❥](purple) $username [❰ ](bright-yellow)$directory[❱](bright-yellow)
+[╰╴❥](purple) 
+"""
+
+[username]
+style_user = "bright-green"
+style_root = "bright-green bold"
+format = "[impoor]($style)"
+disabled = false
+show_always = true
+
+[directory]
+style = "bright-yellow"

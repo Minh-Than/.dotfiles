@@ -1,0 +1,136 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "key": "        ╭─────────────────────────╴❥",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "title",
+      "color": {
+        "user": "green",
+        "at": "white",
+        "host": "green"
+      }
+    },
+    {
+      "type": "custom",
+      "key": "        ╰─────────╮",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "custom",
+      "key": "╭─────────────╴GENERAL╶─────────────╌╶╶ ╶",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "os",
+      "key": "│ OS:       ",
+      "keyColor": "yellow"
+    }, 
+    {
+      "type": "kernel",
+      "key": "│ Kernel:   ",
+      "keyColor": "yellow"
+    }, 
+    {
+      "type": "shell",
+      "key": "│ Shell:    ",
+      "keyColor": "yellow"
+    },   
+    {
+      "type": "de",
+      "key": "│ DE:       ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "terminal",
+      "key": "│ Terminal: ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "custom",
+      "key": "╰───────────────────────────────────╌╶╶ ╶",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "custom",
+      "key": "                   ",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "custom",
+      "key": "╭──────────────╴SPECS╶──────────────╌╶╶ ╶",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "display",
+      "key": "│ Display: ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "cpu",
+      "key": "│ CPU:     ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "gpu",
+      "key": "│ GPU:     ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "memory",
+      "key": "│ Memory:  ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "disk",
+      "key": "│ Disk:    ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "locale",
+      "key": "│ Locale:  ",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "custom",
+      "key": "╰───────────────────────────────────╌╶╶ ╶",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "custom",
+      "key": "              ╰───╮        ,~\"\"\"~.",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "custom",
+      "key": "     ╭────────────╯     __🭋🭑▂▂▂▂▂🭆🭀__",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "custom",
+    "key": "     ╰────────────────┬' '🭧🮄🮄🮄🮄🮄🮄🮄🭜` `╮",
+      "keyColor": "dim_magenta"
+    },
+    {
+      "type": "custom",
+    "key": "                      ╰-.🭻🭻🭻🭻🭻🭻🭻🭻🭻🭻🭻.-╯",
+      "keyColor": "dim_magenta"
+    }
+  ],
+  "logo":{
+    "padding": {
+      "left": 2,
+      "right": 0
+    },
+    "color": {
+      "1": "dim_magenta"
+    },
+    "source":"/home/impoor/.config/fastfetch/3rdeye.txt"
+  }
+}
