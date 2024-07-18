@@ -12,7 +12,7 @@ Featuring:
 > [!NOTE]
 > The author source for all the wallpaper images are all in [here](assets/ksh-bg-imgs) as part of the file names (searchable in Pixiv).
 
-## Previews (why do you care about this):
+## Previews (why do you even care about this):
 
 ![Koosh-fastfetch](assets/previews/Screenshot_20240718_203613.png)
 ![Koosh-randomApplication](assets/previews/Screenshot_20240718_194824.png)
